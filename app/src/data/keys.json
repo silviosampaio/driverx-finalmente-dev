@@ -1,0 +1,21 @@
+[
+  {
+    "authorized": true,
+    "provider": "facebook",
+    "response": {
+      "credentials": {
+        "accessToken": "EAAFtxBalAuMBAGdeMPmHx6ZCQvFgCNqKwhQqAICUGpFCExZCrsU6eBpnhmCEKEkRym9sRxZCi8IZA8ayDXHy2RKlpACZAXKqdPhMAppHDg2USaXZCVg3AMArLpQ2aQ9vACtWjCUjHqB7dYiqM8BMPQOnvAq84U3GFGe9EMOnTVZCQZDZD",
+        "authorizationHeader": "bearer EAAFtxBalAuMBAGdeMPmHx6ZCQvFgCNqKwhQqAICUGpFCExZCrsU6eBpnhmCEKEkRym9sRxZCi8IZA8ayDXHy2RKlpACZAXKqdPhMAppHDg2USaXZCVg3AMArLpQ2aQ9vACtWjCUjHqB7dYiqM8BMPQOnvAq84U3GFGe9EMOnTVZCQZDZD",
+        "clientID": "402163937641187",
+        "idToken": null,
+        "scopes": null,
+        "type": "bearer"
+      },
+      "uuid": null
+    },
+    "status": "ok"
+  },
+
+  /// GRAPH
+  {"data": {"id": "3336585419796679", "name": "Silvio Luis"}, "status": 200}
+]
